@@ -1,16 +1,21 @@
 h1{
-    font-size: 60px;
-    text-align: center;
+    font-size: 30px;
+    text-align: left 70px;
     line-height: 10%;
 }
 p{
-    color: cyan;
+    color: rgb(10, 117, 117);
     line-height:0;
-    border: solid black 15px ;
+    border: 15px;
 }
 img{
-    width: 300px;
-    height: 300px;
-    position: top -10px;
+    width: 100px;
+    height: 100px;
+    position: top -20px;
+}
+body{
+background-color: rgb(43, 42, 143);
 
 }
+
+
