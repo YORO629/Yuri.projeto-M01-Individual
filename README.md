@@ -6,6 +6,3 @@ Apresentação pessoal utilizando HTML e CSS, como um primeiro passo para constr
 
 # Tecnologias utilizadas
 HTML5 e CSS3
-
-# Link para o Projeto Individual
-file:///C:/Users/yurib/Desktop/primeiro%20projeto/index.html
